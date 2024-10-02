@@ -38,6 +38,13 @@
         :loading="false"
       />
     </section>
+
+    <section>
+      <transcation />
+      <transcation />
+      <transcation />
+      <transcation />
+    </section>
   </div>
 </template>
 
